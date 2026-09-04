@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients":[ 
+		["minecraft:tall_grass",
+		 "minecraft:large_fern"
+		],
+
+		["minecraft:tall_grass",
+		 "minecraft:large_fern"
+		],
+
+		["minecraft:tall_grass",
+		 "minecraft:large_fern"
+		],
+		
+		["minecraft:tall_grass",
+		 "minecraft:large_fern"
+		] 
+	],
+	"result": {
+		"id": "minecraft:green_dye",
+		"count": 4
+	}
+}

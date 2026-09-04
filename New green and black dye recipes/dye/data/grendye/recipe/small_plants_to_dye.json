@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients":[ 
+		["minecraft:short_grass",
+		 "minecraft:bush",
+		 "minecraft:fern"
+		],
+
+		["minecraft:short_grass",
+		 "minecraft:bush",
+		 "minecraft:fern"
+		],
+
+		["minecraft:short_grass",
+		 "minecraft:bush",
+		 "minecraft:fern"
+		],
+		
+		["minecraft:short_grass",
+		 "minecraft:bush",
+		 "minecraft:fern"
+		] 
+	],
+	"result": {
+		"id": "minecraft:green_dye",
+		"count": 2
+	}
+}

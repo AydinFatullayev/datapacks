@@ -1,0 +1,15 @@
+{
+    "pack": {
+      "pack_format": 81,
+      "description": "Новые крафты зеленого красителя", 
+      "supported_formats": [48, 81]
+    },
+    "overlays": {
+      "entries": [
+        {
+          "directory": "dye",
+          "formats": [57, 81]
+         }
+       ]
+    }
+}
